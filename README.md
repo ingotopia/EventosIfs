@@ -9,8 +9,8 @@
 
 ## Integrantes
 
-- **[Seu Nome Completo]** — [matrícula]
-- **[Nome do Parceiro]** — [matrícula]
+- Kauan César Ferreira — [matrícula]
+- Indigo Santos Tavares — 2024002739
 
 ---
 
