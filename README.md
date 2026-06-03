@@ -65,14 +65,14 @@ Acesse em: **http://127.0.0.1:8000/**
 
 | RF   | Descrição                                               | Status |
 |------|---------------------------------------------------------|--------|
-| RF01 | Cadastro de usuário com validação de e-mail único       | ✅ |
+| RF01 | Cadastro de usuário com validação de CPF                | ✅ |
 | RF02 | Login e logout com autenticação nativa do Django        | ✅ |
 | RF03 | Modelo Evento com 9 campos relevantes                   | ✅ |
 | RF04 | CRUD completo de eventos (criar, listar, editar, excluir) | ✅ |
 | RF05 | Inscrição e cancelamento de inscrição em eventos        | ✅ |
 | RF06 | Validações personalizadas: data_fim > data_inicio, vagas > 0 | ✅ |
 | RF07 | Busca/filtro por texto, categoria e status via GET      | ✅ |
-| RF08 | Controle de acesso: apenas o dono edita/exclui          | ✅ |
+| RF08 | Controle de acesso: apenas o coordenador do evento edita/exclui          | ✅ |
 | RF09 | Herança de templates via base.html                      | ✅ |
 | RF10 | Migrations e dados de exemplo (comando `seed`)          | ✅ |
 
